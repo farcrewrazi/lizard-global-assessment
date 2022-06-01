@@ -9,6 +9,7 @@ import ReactDOM from 'react-dom';
 import './mock';
 
 // Include styles.
+import 'bootstrap/dist/css/bootstrap.css'
 import './styles/index.css';
 
 // Include application component.
